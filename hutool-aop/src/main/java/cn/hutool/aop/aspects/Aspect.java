@@ -3,7 +3,7 @@ package cn.hutool.aop.aspects;
 import java.lang.reflect.Method;
 
 /**
- * 切面接口
+ * 切面接口 star
  *
  * @author looly
  * @author ted.L
